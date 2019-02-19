@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
     <head>
@@ -47,4 +48,6 @@ je m'appele nom:<?php echo $_POST['nom'] ?></br> et prenom: <?php echo $_POST['p
 
 
 
+=======
+>>>>>>> a24a701d736ab9758d694d35fa7cccb745016f08
 
